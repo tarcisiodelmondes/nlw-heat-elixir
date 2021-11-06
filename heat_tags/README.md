@@ -6,7 +6,6 @@
 
 <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#licença">Licença</a>
 
 </p>
 
@@ -30,13 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-React - NLW Heat é uma aplicação de troca de mensagens, que sera usada no DoWhile 2021.
+Elixir - NLW Heat é uma aplicação de troca de mensagens, que sera usada no DoWhile 2021.
 
-<a id="licenca"></a>
-
-## Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
 
